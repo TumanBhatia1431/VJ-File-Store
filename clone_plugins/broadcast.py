@@ -1,6 +1,6 @@
-# Don't Remove Credit @VJ_Bots
+# Don't Remove Credit @Tuman_Movies
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Tuman_Movies
 
 # Clone Code Credit : YT - @Tech_VJ / TG - @VJ_Bots / GitHub - @VJBots
 
@@ -80,6 +80,6 @@ async def broadcast_messages(bot_id, user_id, message):
         await clonedb.delete_user(bot_id, user_id)
         return False, "Error"
 
-# Don't Remove Credit Tg - @VJ_Bots
+# Don't Remove Credit Tg - @Tuman_Movies
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Tuman_Movies
