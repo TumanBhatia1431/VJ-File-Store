@@ -1,15 +1,15 @@
-# Don't Remove Credit @VJ_Bots
+# Don't Remove Credit @Tuman_Movies
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Tuman_Movies
 
 import re
 from pyrogram import filters, Client, enums
 from clone_plugins.users_api import get_user, get_short_link
 import base64
 
-# Don't Remove Credit Tg - @VJ_Bots
+# Don't Remove Credit Tg - @Tuman_Movies
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Tuman_Movies
 
 @Client.on_message(filters.command(['link']))
 async def gen_link_s(client: Client, message):
@@ -20,9 +20,9 @@ async def gen_link_s(client: Client, message):
     if file_type not in [enums.MessageMediaType.VIDEO, enums.MessageMediaType.AUDIO, enums.MessageMediaType.DOCUMENT]:
         return await message.reply("Reply to a supported media")
 
-# Don't Remove Credit Tg - @VJ_Bots
+# Don't Remove Credit Tg - @Tuman_Movies
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Tuman_Movies
     
     file_id = getattr(replied, file_type.value).file_id
     string = 'file_'
@@ -40,7 +40,7 @@ async def gen_link_s(client: Client, message):
         await message.reply(f"<b>⭕ ʜᴇʀᴇ ɪs ʏᴏᴜʀ ʟɪɴᴋ:\n\n🖇️ sʜᴏʀᴛ ʟɪɴᴋ :- {short_link}</b>")
 
 
-# Don't Remove Credit Tg - @VJ_Bots
+# Don't Remove Credit Tg - @Tuman_Movies
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Tuman_Movies
     
