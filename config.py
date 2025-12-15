@@ -83,7 +83,7 @@ else:
 URL = environ.get("URL", "")
 
 
-# Don't Remove Credit Tg - @VJ_Bots
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit Tg -  @Tuman_Movies
+# Subscribe YouTube Channel For Amazing Bot https://www.youtube.com/@Tuman_Editor_90k-w5s
+# Ask Doubt on telegram  @Tuman_Movies
     
