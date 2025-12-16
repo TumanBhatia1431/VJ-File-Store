@@ -1,6 +1,6 @@
-# Don't Remove Credit @VJ_Bots
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit@Tuman_Movies
+# Subscribe YouTube Channel For Amazing Bot @Tuman_Movies
+# Ask Doubt on telegram @Tuman_Movies
 
 from aiohttp import web
 from .stream_routes import routes
