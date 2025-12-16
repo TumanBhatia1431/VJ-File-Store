@@ -1,6 +1,6 @@
-# Don't Remove Credit @VJ_Bots
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit@Tuman_Movies
+# Subscribe YouTube Channel For Amazing Bot @Tuman_Movies
+# Ask Doubt on telegram @Tuman_Movies
 
 import re
 from pyrogram import filters, Client, enums
@@ -12,9 +12,9 @@ import os
 import json
 import base64
 
-# Don't Remove Credit Tg - @VJ_Bots
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit@Tuman_Movies
+# Subscribe YouTube Channel For Amazing Bot @Tuman_Movies
+# Ask Doubt on telegram @Tuman_Movies
 
 async def allowed(_, __, message):
     if PUBLIC_FILE_STORE:
@@ -23,9 +23,9 @@ async def allowed(_, __, message):
         return True
     return False
 
-# Don't Remove Credit Tg - @VJ_Bots
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit@Tuman_Movies
+# Subscribe YouTube Channel For Amazing Bot @Tuman_Movies
+# Ask Doubt on telegram @Tuman_Movies
 
 @Client.on_message((filters.document | filters.video | filters.audio) & filters.private & filters.create(allowed))
 async def incoming_gen_link(bot, message):
@@ -78,9 +78,9 @@ async def gen_link_s(bot, message):
         await message.reply(f"<b>⭕ ʜᴇʀᴇ ɪs ʏᴏᴜʀ ʟɪɴᴋ:\n\n🔗 ᴏʀɪɢɪɴᴀʟ ʟɪɴᴋ :- {share_link}</b>")
         
 
-# Don't Remove Credit Tg - @VJ_Bots
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit@Tuman_Movies
+# Subscribe YouTube Channel For Amazing Bot @Tuman_Movies
+# Ask Doubt on telegram @Tuman_Movies
 
 @Client.on_message(filters.command(['batch']) & filters.create(allowed))
 async def gen_link_batch(bot, message):
@@ -100,9 +100,9 @@ async def gen_link_batch(bot, message):
     if f_chat_id.isnumeric():
         f_chat_id = int(("-100" + f_chat_id))
 
-# Don't Remove Credit Tg - @VJ_Bots
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit@Tuman_Movies
+# Subscribe YouTube Channel For Amazing Bot @Tuman_Movies
+# Ask Doubt on telegram @Tuman_Movies
     
     match = regex.match(last)
     if not match:
@@ -123,9 +123,9 @@ async def gen_link_batch(bot, message):
     except Exception as e:
         return await message.reply(f'Errors - {e}')
 
-# Don't Remove Credit Tg - @VJ_Bots
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit@Tuman_Movies
+# Subscribe YouTube Channel For Amazing Bot @Tuman_Movies
+# Ask Doubt on telegram @Tuman_Movies
     
     sts = await message.reply("**ɢᴇɴᴇʀᴀᴛɪɴɢ ʟɪɴᴋ ғᴏʀ ʏᴏᴜʀ ᴍᴇssᴀɢᴇ**.\n**ᴛʜɪs ᴍᴀʏ ᴛᴀᴋᴇ ᴛɪᴍᴇ ᴅᴇᴘᴇɴᴅɪɴɢ ᴜᴘᴏɴ ɴᴜᴍʙᴇʀ ᴏғ ᴍᴇssᴀɢᴇs**")
 
@@ -133,9 +133,9 @@ async def gen_link_batch(bot, message):
 
     outlist = []
 
-# Don't Remove Credit Tg - @VJ_Bots
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit@Tuman_Movies
+# Subscribe YouTube Channel For Amazing Bot @Tuman_Movies
+# Ask Doubt on telegram @Tuman_Movies
 
     # file store without db channel
     og_msg = 0
@@ -156,9 +156,9 @@ async def gen_link_batch(bot, message):
         og_msg +=1
         outlist.append(file)
 
-# Don't Remove Credit Tg - @VJ_Bots
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit@Tuman_Movies
+# Subscribe YouTube Channel For Amazing Bot @Tuman_Movies
+# Ask Doubt on telegram @Tuman_Movies
 
     with open(f"batchmode_{message.from_user.id}.json", "w+") as out:
         json.dump(outlist, out)
@@ -178,8 +178,9 @@ async def gen_link_batch(bot, message):
     else:
         await sts.edit(f"<b>⭕ ʜᴇʀᴇ ɪs ʏᴏᴜʀ ʟɪɴᴋ:\n\nContains `{og_msg}` files.\n\n🔗 ᴏʀɪɢɪɴᴀʟ ʟɪɴᴋ :- {share_link}</b>")
         
-# Don't Remove Credit Tg - @VJ_Bots
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit@Tuman_Movies
+# Subscribe YouTube Channel For Amazing Bot @Tuman_Movies
+# Ask Doubt on telegram @Tuman_Movies
+
 
 
