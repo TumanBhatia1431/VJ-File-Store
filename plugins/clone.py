@@ -1,6 +1,6 @@
-# Don't Remove Credit Tg - @VJ_Bots
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit@Tuman_Movies
+# Subscribe YouTube Channel For Amazing Bot @Tuman_Movies
+# Ask Doubt on telegram @Tuman_Movies
 
 import re
 from pymongo import MongoClient
@@ -69,9 +69,9 @@ async def delete_cloned_bot(client, message):
     except:
         await message.reply_text("An error occurred while deleting the cloned bot.")
 
-# Don't Remove Credit Tg - @VJ_Bots
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit@Tuman_Movies
+# Subscribe YouTube Channel For Amazing Bot @Tuman_Movies
+# Ask Doubt on telegram @Tuman_Movies
 
 async def restart_bots():
     bots = list(mongo_db.bots.find())
