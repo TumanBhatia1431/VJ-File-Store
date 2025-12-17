@@ -80,7 +80,7 @@ class script(object):
 # Ask Doubt on telegram @KingVJ01
 [
                     [
-                        InlineKeyboardButton("Updates Channel", url="https://t.me/VJ_Bots")
+                        InlineKeyboardButton("Updates Channel", url="https://t.me/tuman_movies")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
@@ -88,7 +88,7 @@ class script(object):
                         InlineKeyboardButton("Close 🚪", callback_data="closeMessage")
                     ],
                     [
-                        InlineKeyboardButton("Support Group", url="https://t.me/VJ_Bot_Disscussion"),
+                        InlineKeyboardButton("Support Group", url="https://t.me/tuman_movies"),
                         InlineKeyboardButton("YouTube Channel", url="https://youtube.com/@Tech_VJ")
                     ]
                 ]
@@ -230,3 +230,4 @@ Nᴀᴍᴇ - {}</b>
 # Don't Remove Credit Tg - @VJ_Bots
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
+
