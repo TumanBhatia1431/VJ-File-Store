@@ -8,11 +8,11 @@ class script(object):
 
 # Don't Remove Credit Tg - @VJ_Bots
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @KingVJ0
 
     
+    
     CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
-
 ⚙️ sɪᴢᴇ : {file_size}
 
 Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/tuman_movies)</b>""" 
@@ -230,5 +230,6 @@ Nᴀᴍᴇ - {}</b>
 # Don't Remove Credit Tg - @VJ_Bots
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
+
 
 
