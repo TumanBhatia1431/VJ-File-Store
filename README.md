@@ -85,7 +85,7 @@
 
 <b><details><summary>Tap On Me For See Credit</summary>
 
-💝 Credit Goes To [Tech VJ](https://telegram.me/VJ_Bots)
+💝 Credit Goes To [Tech VJ](https://telegram.me/Tuman_Movies)
 
 🖍️ This Code Is Fully Written Or Coded And Public By [Tech VJ](https://github.com/VJBots) So Don't Forgot To Give Credit
 
@@ -100,9 +100,9 @@ Copyright ©️ [Tech VJ](https://youtube.com/@Tech_VJ)
 
 <b><details><summary>Tap On Me For See Details Of Owner</summary>
 
-- YouTube Channel : [Tech VJ](https://youtube.com/@Tech_VJ)
-- Telegram Channel : [VJ Bots](https://telegram.me/VJ_Bots)
-- Contact Link : [King VJ](https://telegram.me/Kingvj01)
+- YouTube Channel : [Tech VJ](https://youtube.com/)
+- Telegram Channel : [VJ Bots](https://telegram.me/Tuman_Movies)
+- Contact Link : [King VJ](https://telegram.me/Tuman_Movies)
 - Instagram Id Link : [Tech VJ](https://instagram.com/tech.vj)
 
 </b>
