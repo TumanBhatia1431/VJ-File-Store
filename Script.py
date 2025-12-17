@@ -11,7 +11,7 @@ class script(object):
 # Ask Doubt on telegram @KingVJ01
 
     
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {@Tuman_Movie}
+    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {@Tuman_Movies}
 
 ⚙️ sɪᴢᴇ : {file_size}
 
@@ -145,6 +145,7 @@ Nᴀᴍᴇ - {}</b>
 # Don't Remove Credit Tg - @VJ_Bots
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
+
 
 
 
