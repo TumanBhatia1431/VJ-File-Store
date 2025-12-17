@@ -109,7 +109,7 @@ Copyright ©️ [Tech VJ](https://youtube.com/@Tech_VJ)
 </details>
 
 
-### Copyright ©️ [Tech VJ](https://youtube.com/@Tech_VJ)
+### Copyright ©️ [Tech VJ]()
 
 <b>Selling This Repo Or Code Of This Repo For Money Is Strictly Prohibited 🚫</b>
 
